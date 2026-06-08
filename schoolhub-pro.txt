@@ -1,0 +1,18 @@
+schoolhub-pro/
+├── app/
+│   ├── config/          ← สร้างโฟลเดอร์นี้
+│   ├── core/            ← สร้างโฟลเดอร์นี้
+│   ├── controllers/     ← สร้างโฟลเดอร์นี้
+│   ├── models/          ← สร้างโฟลเดอร์นี้
+│   └── views/
+│       ├── frontend/
+│       └── admin/
+├── public/
+│   ├── assets/
+│   │   ├── css/
+│   │   └── js/
+│   └── uploads/
+│       ├── news/
+│       ├── teachers/
+│       ├── galleries/
+│       └── documents/
